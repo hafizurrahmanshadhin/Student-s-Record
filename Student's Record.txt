@@ -1,0 +1,81 @@
+
+
+			Student's Details
+		_________________________________
+
+	Student Name: Hafizur Rahman Shadhin
+	ID: 1
+	Section: H
+	Semester: 3rd
+	Department: CSE
+	University Name: Daffodil International University
+	Student Blood Group: B+
+	University Current Semester Result: 3.63
+	University Overall Result: 3.63
+
+
+			Student's Background
+		____________________________________
+
+
+	College Name: Govt. Bangla COllege
+	H.S.C Passing Year: 2018
+	H.S.C Result in GPA: 4.93
+	H.S.C Board: DHaka
+	School Name: Firoza Bashar Ideal College
+	S.S.C Passing Year: 2016
+	S.S.C Result in GPA: 4.88
+	S.S.C Board: Dhaka
+
+
+			Student's Contact Information
+		_____________________________________________
+
+
+	Student's Phone Number: 1571258
+	Father's Name: 84
+	Mother's Name: Selina Rahman
+	Father's Phone Number: 9137532
+	Mother's Phone Number: 324234
+	Present Address: Mohammadpur, Dhaka
+	Permanent Address: Khulna
+	Other's Details and Comment: N/A
+
+			Student's Details
+		_________________________________
+
+	Student Name: ss
+	ID: 2
+	Section: d
+	Semester: d
+	Department: d
+	University Name: d
+	Student Blood Group: d
+	University Current Semester Result: 2958625982927188500000.00
+	University Overall Result: 0.00
+
+
+			Student's Background
+		____________________________________
+
+	College Name: d
+	H.S.C Passing Year: 1551135593
+	H.S.C Result in GPA: 18175882959341211000000000000000.00
+	H.S.C Board: dd
+	School Name: d
+	S.S.C Passing Year: 1702129257
+	S.S.C Result in GPA: 16930179417190674000000.00
+	S.S.C Board: d
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 273867448778940
+	Father's Name: d
+	Mother's Name: d
+	Father's Phone Number: 11171680
+	Mother's Phone Number: 11141456
+	Present Address: d
+	Permanent Address: d
+	Other's Details and Comment: d
